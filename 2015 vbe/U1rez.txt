@@ -1,0 +1,6 @@
+Doli      
+Krustas    4
+Baltukas   3
+Dailioji   3
+Pistas     1
+Smarkuolis 1

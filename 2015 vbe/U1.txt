@@ -1,0 +1,8 @@
+6 6
+3
+Baltukas   TAGCTT
+Dailioji   ATGCAA
+Doli       AGGCTC
+Smarkuolis AATGAA
+Pistas     AATAFF
+Krustas    AGGCQQ

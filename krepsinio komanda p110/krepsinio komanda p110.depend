@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465673466 source:d:\progma\krepsinio komanda p110\main.cpp
+	<iostream>
+	<fstream>
+
